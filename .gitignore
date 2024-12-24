@@ -1,0 +1,14 @@
+venv/
+
+.env
+env.py
+
+*.sqlite3
+
+*.log
+
+*.tmp
+*.swp
+
+__pycache__/
+*.pyc
